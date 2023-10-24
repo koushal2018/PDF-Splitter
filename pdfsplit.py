@@ -38,5 +38,5 @@ def split_pdf(input_folder):
     print("Processing completed.")
 
 # Run the script
-input_folder = "/Users/koushald/Downloads/CSDATA"  # Replace with your folder path
+input_folder = "/path/to/your/target_directory"  # Replace with your folder path
 split_pdf(input_folder)
